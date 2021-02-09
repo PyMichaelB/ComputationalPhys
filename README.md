@@ -1,5 +1,5 @@
 # Computational Physics
-Part II Computational Physics notebooks from Google Colab.
+Part II Computational Physics notebooks from Google Colab. The code has been designed to run with every code block independent under the assumption that the "Preliminary code" is run first.
 
 Exercise 1 - Damped and driven pendulum, solving ODEs
 
